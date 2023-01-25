@@ -5,6 +5,7 @@ date: '2023-01-05'
 longDate: 'January 5th, 2023'
 time: '2'
 ---
+<!-- This is an example blog post. We use gray-matter to parse metadata the app uses to render the post. -->
 
 Look, I just created a staticly-typed
 blog with markdown support!
